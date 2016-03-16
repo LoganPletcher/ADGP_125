@@ -1,0 +1,24 @@
+The ADGP_125 repository and the profile of LoganPletcher, the creator of the repository, will be used for this assessment.
+01 - The repository will be cloned to the Github folder using the repository URL that is copied in the clipboard, creating a new director
+    and foregoing the need to use the mkdir command and the init command.
+02 - The directory's status will be checked.
+03 - A txt file will be made called newFile.txt.
+04 - The txt file will be modified.
+05 - The directory's status will be checked again and then the changes to the directory will be added to be staged.
+06 - The directory's status will be checked yet again and then commited with a message.
+07 - The directory's status will be checked again.
+08 - The current remotes and branches will be checked.
+09 - The commit will be pushed to the master branch from the origin remote.
+10 - The directory's status and the branch logs will be checked.
+11 - The newFile.txt's text will be edited online and the changes will be commited.
+12 - The master branch will be pulled to the origin remote, the pull command does the same thing as the fetch and merge commands but by
+    using only one command.
+13 - The newFile.txt file will be edited again in the gitshell, the changes added to be staged, and then removed from being staged.
+14 - A new remote called LoganR will be created and a new branch called LoganB will be created.
+15 - The current branch will be changed to ther LoganB branch and the newFile.txt will be edited again.
+16 - All the changes will be added for staging, the changes will be committed, and the commit pushed from LoganR to LoganB.
+17 - A pull request will be made with the base being set to LoganB and the compare being set to master, and the request name will be 
+    "Request 1".
+18 - The merge will be accepted by clicking the merge button.
+19 - The directory will be changed back to the master branch.
+20 - The status of the directory will be checked and then the online master branch will be pulled to the origin remote.
